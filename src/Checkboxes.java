@@ -47,12 +47,20 @@ public class Checkboxes {
 		driver.manage().window().maximize();
 		driver.findElement(By.xpath("//span[@class='calenderDepartSpan']")).click();
 		driver.findElement(By.xpath("//*[@class ='dl-state-default']")).click(); */
-		
-		                                
+                            
 		
 		
 		
 
 	}
+	
+	public void Print_A1()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_B2()
+	{
+	 System.out.println("Using Gith second time");
+	}  
 
 }
