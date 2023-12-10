@@ -31,6 +31,21 @@ public class Alert {
 	{
 	 System.out.println("Using Gith second time");
 	}
-	
+	public void Print_C()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_D()
+	{
+	 System.out.println("Using Gith second time");
+	}
+	public void Print_E()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_F()
+	{
+	 System.out.println("Using Gith second time");
+	}
 
 }
