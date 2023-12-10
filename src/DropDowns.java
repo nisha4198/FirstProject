@@ -18,5 +18,23 @@ public class DropDowns {
 		
 
 	}
+	public void Print_A21()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_B22()
+	{
+	 System.out.println("Using Gith second time");
+	}  
+
+	public void Print_A23()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_B24()
+	{
+	 System.out.println("Using Gith second time");
+	}  
+
 
 }
