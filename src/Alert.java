@@ -2,6 +2,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class Alert {
 
 	public static void main(String[] args) {
@@ -21,5 +23,14 @@ public class Alert {
 		// TODO Auto-generated method stub
 
 	}
+	public void Print_A()
+	{
+	 System.out.println("Using Gith first time");
+	}
+	public void Print_B()
+	{
+	 System.out.println("Using Gith second time");
+	}
+	
 
 }
